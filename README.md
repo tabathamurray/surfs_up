@@ -26,10 +26,12 @@ For the written analysis, you should use the repository README.md to write your 
 
 **Results:**  Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
 
-**Summary:** Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December. Here are some examples of additional queries you could peform:
-  * What are the summary statistics for each station? And, is one location particular more suitable or a new surf and ice cream shop business based on this data?
-  * Does June or December have more rainy days? 
-  * What is the precipitation for each station for June and December? Can certian locations be ruled out for a new surf and ice cream shop business based on this data?
+**Summary:** Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December. 
+
+For June, the highest temperature observed was 85 degrees, and the lowest temperature was 64 degrees. This shows a variance of 21 degrees for June. For December, the highest tempterature observed was 83 degrees, and the lowest tempterature was 56 degrees. This shows a variance of 27 degrees. June temperatures average higher at 74.9 degrees than December at 71 degrees. 
+
+![December_Summary.](./December_Summary.png)
+
 
 The README.md document should be in the home directory of your repository. All links should be working, and images and code should be formatted and displayed where appropriate.
 
