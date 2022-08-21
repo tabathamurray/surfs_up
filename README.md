@@ -30,7 +30,9 @@ For the written analysis, you should use the repository README.md to write your 
 
 For June, the highest temperature observed was 85 degrees, and the lowest temperature was 64 degrees. This shows a variance of 21 degrees for June. For December, the highest tempterature observed was 83 degrees, and the lowest tempterature was 56 degrees. This shows a variance of 27 degrees. June temperatures average higher at 74.9 degrees than December at 71 degrees. 
 
-![December_Summary](./December_Summary.png)
+![December_Summary](./December_Summary.png) ![June_Summary](./June_Summary.png)
+
+Some other analysises that could help are the time frame of the lower temperatures and how long they last, the total amount of rain and if the temperature plays a part in that rain, and how many hurricanes affect the area per year.
 
 
 The README.md document should be in the home directory of your repository. All links should be working, and images and code should be formatted and displayed where appropriate.
